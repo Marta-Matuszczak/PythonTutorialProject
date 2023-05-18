@@ -1,0 +1,4 @@
+Context managers are typically used for:
+- opening and closing files
+- opening and closing database connections
+- locks
